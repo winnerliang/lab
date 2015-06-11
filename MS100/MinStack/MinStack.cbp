@@ -2,31 +2,21 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="BSTreetoDLList" />
+		<Option title="MinStack" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/BSTreetoDLList" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/MinStack" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="/home/yunlliang/winnerlab/github/lab/MS100/BSTreetoDLList/" />
-					<Add directory="/home/yunlliang/winnerlab/github/lab/BaseLibrary" />
 				</Compiler>
-				<ResourceCompiler>
-					<Add directory="/home/yunlliang/winnerlab/github/lab/MS100/BSTreetoDLList/" />
-					<Add directory="../../BaseLibrary" />
-				</ResourceCompiler>
-				<Linker>
-					<Add directory="/home/yunlliang/winnerlab/github/lab/MS100/BSTreetoDLList/" />
-					<Add directory="../../BaseLibrary" />
-				</Linker>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/BSTreetoDLList" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/MinStack" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -42,8 +32,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../../BaseLibrary/StringtoTree.cpp" />
-		<Unit filename="../../BaseLibrary/StringtoTree.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

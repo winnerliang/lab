@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1434007311 source:/home/yunlliang/winnerlab/github/lab/MS100/MinStack/main.cpp
+	<iostream>
+	<MinStack.h>
+
+1434007001 /home/yunlliang/winnerlab/github/lab/MS100/MinStack//MinStack.h
+	<stack>
+
+1434006950 source:/home/yunlliang/winnerlab/github/lab/MS100/MinStack/MinStack.cpp
+	"MinStack.h"
+
+1434007001 /home/yunlliang/winnerlab/github/lab/MS100/MinStack/MinStack.h
+	<stack>
+
