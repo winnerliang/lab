@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1434162872 source:/home/yunlliang/winnerlab/github/lab/BaseLibrary/mylist.cpp
+	"mylist.h"
+	<iostream>
+
+1434162876 /home/yunlliang/winnerlab/github/lab/BaseLibrary/mylist.h
+
+1434282740 source:/home/yunlliang/winnerlab/github/lab/MS100/T13/main.cpp
+	<iostream>
+	"mylist.h"
+

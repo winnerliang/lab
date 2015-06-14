@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434246307 source:/home/yunlliang/winnerlab/github/lab/MS100/T10ReversingWord/main.cpp
+	<iostream>
+	<string.h>
+
