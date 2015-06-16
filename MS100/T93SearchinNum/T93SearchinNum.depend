@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1434442315 source:/home/yunlliang/winnerlab/github/lab/MS100/T93SearchinNum/main.cpp
+	<iostream>
+	"MinStack.h"
+
+1434007001 /home/yunlliang/winnerlab/github/lab/MS100/T93SearchinNum/MinStack.h
+	<stack>
+
+1434007812 source:/home/yunlliang/winnerlab/github/lab/MS100/T93SearchinNum/MinStack.cpp
+	"MinStack.h"
+
