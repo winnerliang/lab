@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434527902 source:/home/yunlliang/winnerlab/github/lab/MS100/T84searchingdiff/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

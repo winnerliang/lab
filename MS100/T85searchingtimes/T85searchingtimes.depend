@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434522965 source:/home/yunlliang/winnerlab/github/lab/MS100/T85searchingtimes/main.cpp
+	<iostream>
+	<string.h>
+

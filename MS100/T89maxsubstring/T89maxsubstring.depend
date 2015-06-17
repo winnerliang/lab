@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434506458 source:/home/yunlliang/winnerlab/github/lab/MS100/T89maxsubstring/main.cpp
+	<iostream>
+	<string.h>
+

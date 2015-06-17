@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434510524 source:/home/yunlliang/winnerlab/github/lab/MS100/T87findincstring/main.cpp
+	<iostream>
+	<string.h>
+
