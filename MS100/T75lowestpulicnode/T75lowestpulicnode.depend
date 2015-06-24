@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434286588 source:/home/yunlliang/winnerlab/github/lab/BaseLibrary/StringtoTree.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stdlib.h>
+	"StringtoTree.h"
+
+1434286550 /home/yunlliang/winnerlab/github/lab/BaseLibrary/StringtoTree.h
+	<string>
+
+1434595319 source:/home/yunlliang/winnerlab/github/lab/MS100/T75lowestpulicnode/main.cpp
+	<iostream>
+	"StringtoTree.h"
+

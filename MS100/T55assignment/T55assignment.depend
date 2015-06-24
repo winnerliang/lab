@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435107657 source:/home/yunlliang/winnerlab/github/lab/MS100/T55assignment/main.cpp
+	<iostream>
+	<string.h>
+

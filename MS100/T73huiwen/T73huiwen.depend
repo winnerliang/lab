@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434681493 source:/home/yunlliang/winnerlab/github/lab/MS100/T73huiwen/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

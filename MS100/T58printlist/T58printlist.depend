@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435027578 source:/home/yunlliang/winnerlab/github/lab/MS100/T58printlist/main.cpp
+	<iostream>
+	"mylist.h"
+
