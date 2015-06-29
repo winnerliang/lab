@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435566454 source:/home/yunlliang/winnerlab/github/lab/datastruct/LeetCode229MajorityElements2/main.cpp
+	<iostream>
+	<vector>
+

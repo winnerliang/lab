@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435580782 source:/home/yunlliang/winnerlab/github/lab/datastruct/LeetCode228SummaryRanges/main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+
