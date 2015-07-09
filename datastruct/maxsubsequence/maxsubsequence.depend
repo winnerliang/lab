@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435287009 source:/home/yunlliang/winnerlab/github/lab/datastruct/maxsubsequence/main.cpp
+	<iostream>
+	<vector>
+
